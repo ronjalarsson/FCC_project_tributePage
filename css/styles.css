@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#95D1CC 50%, transparent 100%);
+  background: linear-gradient(45deg, rgb(118, 201, 255), rgb(247, 255, 222));
   font-family: Montserrat;
   line-height: 1.5;
   text-align: center;
